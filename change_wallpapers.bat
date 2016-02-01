@@ -1,0 +1,1 @@
+powershell -File "change_wallpapers.ps1"
